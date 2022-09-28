@@ -3,12 +3,10 @@ public class Main {
 
 	public static void main(String[] args) {
 
+	
 	System.out.println("Olá Mundo!");import java.util.Locale;
+		
 import java.util.Scanner;
-
-public class Main {
-
-	public static void main(String[] args) {
 
 	int y = 32;
 	double x = 10.35784;
