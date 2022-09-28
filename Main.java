@@ -36,9 +36,7 @@ import java.util.Scanner;
     // ler inteiro sc.nextInt
     // ler ponto flutuante sc.nextDouble
 
-	}
 
-}
 
 		
 		
